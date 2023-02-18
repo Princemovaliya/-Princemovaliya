@@ -1,4 +1,4 @@
-# -Princemovaliya<h1 align="center">Hi 👋, I'm Prince Movaliya</h1>
+<h1 align="center">Hi 👋, I'm Prince Movaliya</h1>
 <h3 align="center">currently learning c++.</h3>
 
 - 📫 How to reach me **princemovaliya2@gmail.com**
